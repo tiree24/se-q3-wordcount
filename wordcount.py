@@ -25,7 +25,7 @@ should return a dictionary with words as keys, and their counts as values.
 
 # Your name, plus anyone who helped you with this assignment
 # Give credit where credit is due.
-__author__ = "Went back over the demo to help give me a idea of solving the problem and went to google for answers to help me found some solutions that help me with the problems like stack overflow and geeksforgeeks and and youtube videos was really helpful to."
+__tiree__ = "Went back over the demo to help give me a idea of solving the problem and went to google for answers to help me found some solutions that help me with the problems like stack overflow and geeksforgeeks and and youtube videos was really helpful to."
 
 import sys
 
